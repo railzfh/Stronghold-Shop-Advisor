@@ -1,0 +1,103 @@
+{
+  "format": "stronghold.shop-advisor-config",
+  "version": 1,
+  "name": "炎盟约：铃兰·惊蛰·投资人层数引擎",
+  "strategy": {
+    "format": "stronghold.shop-strategy",
+    "version": 1,
+    "name": "炎盟约：铃兰·惊蛰·投资人层数引擎",
+    "bondRules": [
+      {
+        "bondId": "yanShip",
+        "tier": 1,
+        "reason": "炎层数与6/9人档的核心目标"
+      },
+      {
+        "bondId": "investShip",
+        "tier": 2,
+        "reason": "激活后放大所有获得时特质"
+      }
+    ],
+    "operatorRules": [
+      {
+        "chessId": "chess_char_1_03_a",
+        "tier": 1,
+        "reason": "铃兰每回合重触发的核心加层来源"
+      },
+      {
+        "chessId": "chess_char_2_04_a",
+        "tier": 1,
+        "reason": "炎激活后按本回合获得数加层"
+      },
+      {
+        "chessId": "chess_char_3_04_a",
+        "tier": 1,
+        "reason": "同时推进炎和投资人，并提供下回合资金"
+      },
+      {
+        "chessId": "chess_char_5_12_a",
+        "tier": 1,
+        "reason": "炎激活后按本回合获得数加炎与奥术层数"
+      },
+      {
+        "chessId": "chess_char_4_17_a",
+        "tier": 2,
+        "reason": "获得时炎层数+8，可被投资人放大"
+      },
+      {
+        "chessId": "chess_char_5_03_a",
+        "tier": 2,
+        "reason": "获得时炎层数+5，可被投资人放大"
+      },
+      {
+        "chessId": "chess_char_5_23_a",
+        "tier": 2,
+        "reason": "获得时炎层数+6，可被投资人放大"
+      },
+      {
+        "chessId": "chess_char_6_03_a",
+        "tier": 3,
+        "reason": "培养炎人数后有机会招募炎干员"
+      },
+      {
+        "chessId": "chess_char_6_15_a",
+        "tier": 3,
+        "reason": "高层数后的战斗收益，不是加层来源"
+      }
+    ],
+    "mergeTier": 1
+  },
+  "notes": {
+    "format": "stronghold.shop-attention-notes",
+    "version": 1,
+    "name": "默认回合注意事项",
+    "defaultText": "",
+    "rounds": {
+      "1": [
+        "先保证场上有足够的基础战力，再开始追构筑方向。",
+        "保留升级和必要刷新的资金，避免把资金全部花在无关干员上。"
+      ],
+      "2": [
+        "检查主构筑是否已经出现第一批成员；没有目标成员时优先保留经济。"
+      ],
+      "4": [
+        "准备进入中期，确认是否继续追合成，还是转向更高阶干员。"
+      ],
+      "6": [
+        "检查核心羁绊人数和层数，避免为了补一个成员拆掉当前作战阵容。"
+      ],
+      "10": [
+        "开始为后期高阶商店和最终阵容留钱，低价值单卡可以清理。"
+      ],
+      "14": [
+        "最终攻势前确认部署位、关键干员和装备，不要把最后资金花在低价值刷新上。"
+      ]
+    }
+  },
+  "banAdvisor": {
+    "format": "stronghold.shop-ban-advisor",
+    "version": 1,
+    "enabled": false,
+    "groups": []
+  }
+}

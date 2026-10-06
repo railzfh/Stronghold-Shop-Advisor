@@ -1,0 +1,43 @@
+name: Bug report
+description: Report a reproducible extension problem.
+title: "[Bug] "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请不要提交账号信息、Cookie、完整客户端文件、网络抓包或未脱敏截图。
+  - type: input
+    id: version
+    attributes:
+      label: 插件版本
+      placeholder: "1.0.12"
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: 浏览器和版本
+      placeholder: "Microsoft Edge 140"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 重现步骤
+      description: 请提供最小、可复现的步骤。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 预期行为
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: 实际行为
+    validations:
+      required: true

@@ -1,0 +1,1071 @@
+{
+  "operators": [
+    {
+      "id": "chess_char_1_01_a",
+      "name": "隐现",
+      "tier": 1,
+      "bonds": [
+        "lateranoShip",
+        "swiftShip"
+      ]
+    },
+    {
+      "id": "chess_char_1_02_a",
+      "name": "角峰",
+      "tier": 1,
+      "bonds": [
+        "kjeragShip",
+        "steadShip"
+      ]
+    },
+    {
+      "id": "chess_char_1_03_a",
+      "name": "惊蛰",
+      "tier": 1,
+      "bonds": [
+        "yanShip"
+      ]
+    },
+    {
+      "id": "chess_char_1_04_a",
+      "name": "深巡",
+      "tier": 1,
+      "bonds": [
+        "egirShip"
+      ]
+    },
+    {
+      "id": "chess_char_1_06_a",
+      "name": "刺玫",
+      "tier": 1,
+      "bonds": [
+        "victoriaShip",
+        "deputShip"
+      ]
+    },
+    {
+      "id": "chess_char_1_07_a",
+      "name": "普罗旺斯",
+      "tier": 1,
+      "bonds": [
+        "siracusaShip"
+      ]
+    },
+    {
+      "id": "chess_char_1_08_a",
+      "name": "德克萨斯",
+      "tier": 1,
+      "bonds": [
+        "soloShip",
+        "siracusaShip"
+      ]
+    },
+    {
+      "id": "chess_char_1_09_a",
+      "name": "跃跃",
+      "tier": 1,
+      "bonds": [
+        "preciShip"
+      ]
+    },
+    {
+      "id": "chess_char_1_10_a",
+      "name": "古米",
+      "tier": 1,
+      "bonds": [
+        "steadShip"
+      ]
+    },
+    {
+      "id": "chess_char_1_12_a",
+      "name": "艾丝黛尔",
+      "tier": 1,
+      "bonds": [
+        "sargonShip"
+      ]
+    },
+    {
+      "id": "chess_char_1_13_a",
+      "name": "波登可",
+      "tier": 1,
+      "bonds": [
+        "deputShip"
+      ]
+    },
+    {
+      "id": "chess_char_1_14_a",
+      "name": "格雷伊",
+      "tier": 1,
+      "bonds": [
+        "skillfulShip"
+      ]
+    },
+    {
+      "id": "chess_char_1_17_a",
+      "name": "深靛",
+      "tier": 1,
+      "bonds": [
+        "arcaneShip",
+        "preciShip"
+      ]
+    },
+    {
+      "id": "chess_char_1_18_a",
+      "name": "宴",
+      "tier": 1,
+      "bonds": [
+        "raidShip"
+      ]
+    },
+    {
+      "id": "chess_char_1_19_a",
+      "name": "野鬃",
+      "tier": 1,
+      "bonds": [
+        "kazimierzShip",
+        "swiftShip"
+      ]
+    },
+    {
+      "id": "chess_char_1_20_a",
+      "name": "雷蛇",
+      "tier": 1,
+      "bonds": [
+        "indomShip"
+      ]
+    },
+    {
+      "id": "chess_char_2_01_a",
+      "name": "送葬人",
+      "tier": 2,
+      "bonds": [
+        "lateranoShip",
+        "preciShip"
+      ]
+    },
+    {
+      "id": "chess_char_2_02_a",
+      "name": "赫默",
+      "tier": 2,
+      "bonds": [
+        "visiShip"
+      ]
+    },
+    {
+      "id": "chess_char_2_04_a",
+      "name": "小满",
+      "tier": 2,
+      "bonds": [
+        "yanShip",
+        "skillfulShip"
+      ]
+    },
+    {
+      "id": "chess_char_2_05_a",
+      "name": "哈洛德",
+      "tier": 2,
+      "bonds": [
+        "kjeragShip",
+        "victoriaShip"
+      ]
+    },
+    {
+      "id": "chess_char_2_06_a",
+      "name": "莎草",
+      "tier": 2,
+      "bonds": [
+        "sargonShip"
+      ]
+    },
+    {
+      "id": "chess_char_2_07_a",
+      "name": "幽灵鲨",
+      "tier": 2,
+      "bonds": [
+        "egirShip"
+      ]
+    },
+    {
+      "id": "chess_char_2_08_a",
+      "name": "泡泡",
+      "tier": 2,
+      "bonds": [
+        "sargonShip",
+        "steadShip"
+      ]
+    },
+    {
+      "id": "chess_char_2_09_a",
+      "name": "休谟斯",
+      "tier": 2,
+      "bonds": [
+        "raidShip"
+      ]
+    },
+    {
+      "id": "chess_char_2_10_a",
+      "name": "洛洛",
+      "tier": 2,
+      "bonds": [
+        "victoriaShip",
+        "arcaneShip"
+      ]
+    },
+    {
+      "id": "chess_char_2_11_a",
+      "name": "风丸",
+      "tier": 2,
+      "bonds": [
+        "miraShip"
+      ]
+    },
+    {
+      "id": "chess_char_2_12_a",
+      "name": "砾",
+      "tier": 2,
+      "bonds": [
+        "kazimierzShip",
+        "indomShip"
+      ]
+    },
+    {
+      "id": "chess_char_2_13_a",
+      "name": "蒂比",
+      "tier": 2,
+      "bonds": [
+        "swiftShip",
+        "skillfulShip"
+      ]
+    },
+    {
+      "id": "chess_char_2_14_a",
+      "name": "调香师",
+      "tier": 2,
+      "bonds": [
+        "deputShip",
+        "emptyShip"
+      ]
+    },
+    {
+      "id": "chess_char_2_16_a",
+      "name": "拉普兰德",
+      "tier": 2,
+      "bonds": [
+        "siracusaShip"
+      ]
+    },
+    {
+      "id": "chess_char_2_17_a",
+      "name": "折桠",
+      "tier": 2,
+      "bonds": [
+        "steadShip",
+        "soloShip"
+      ]
+    },
+    {
+      "id": "chess_char_2_18_a",
+      "name": "灰毫",
+      "tier": 2,
+      "bonds": [
+        "kazimierzShip",
+        "steadShip"
+      ]
+    },
+    {
+      "id": "chess_char_2_19_a",
+      "name": "锡人",
+      "tier": 2,
+      "bonds": [
+        "investShip",
+        "swiftShip"
+      ]
+    },
+    {
+      "id": "chess_char_3_01_a",
+      "name": "能天使",
+      "tier": 3,
+      "bonds": [
+        "lateranoShip",
+        "miraShip"
+      ]
+    },
+    {
+      "id": "chess_char_3_02_a",
+      "name": "断崖",
+      "tier": 3,
+      "bonds": [
+        "skillfulShip"
+      ]
+    },
+    {
+      "id": "chess_char_3_03_a",
+      "name": "诗怀雅",
+      "tier": 3,
+      "bonds": [
+        "yanShip",
+        "visiShip"
+      ]
+    },
+    {
+      "id": "chess_char_3_04_a",
+      "name": "琳琅诗怀雅",
+      "tier": 3,
+      "bonds": [
+        "yanShip",
+        "investShip"
+      ]
+    },
+    {
+      "id": "chess_char_3_05_a",
+      "name": "斯卡蒂",
+      "tier": 3,
+      "bonds": [
+        "egirShip",
+        "steadShip",
+        "raidShip"
+      ]
+    },
+    {
+      "id": "chess_char_3_06_a",
+      "name": "菲莱",
+      "tier": 3,
+      "bonds": [
+        "sargonShip"
+      ]
+    },
+    {
+      "id": "chess_char_3_08_a",
+      "name": "薄绿",
+      "tier": 3,
+      "bonds": [
+        "victoriaShip"
+      ]
+    },
+    {
+      "id": "chess_char_3_09_a",
+      "name": "海霓",
+      "tier": 3,
+      "bonds": [
+        "egirShip",
+        "arcaneShip"
+      ]
+    },
+    {
+      "id": "chess_char_3_10_a",
+      "name": "松果",
+      "tier": 3,
+      "bonds": [
+        "swiftShip",
+        "emptyShip"
+      ]
+    },
+    {
+      "id": "chess_char_3_11_a",
+      "name": "雪猎",
+      "tier": 3,
+      "bonds": [
+        "kjeragShip",
+        "preciShip"
+      ]
+    },
+    {
+      "id": "chess_char_3_12_a",
+      "name": "瑕光",
+      "tier": 3,
+      "bonds": [
+        "kazimierzShip",
+        "raidShip"
+      ]
+    },
+    {
+      "id": "chess_char_3_13_a",
+      "name": "至简",
+      "tier": 3,
+      "bonds": [
+        "sargonShip",
+        "skillfulShip"
+      ]
+    },
+    {
+      "id": "chess_char_3_14_a",
+      "name": "初雪",
+      "tier": 3,
+      "bonds": [
+        "kjeragShip",
+        "visiShip"
+      ]
+    },
+    {
+      "id": "chess_char_3_16_a",
+      "name": "蛇屠箱",
+      "tier": 3,
+      "bonds": [
+        "steadShip",
+        "indomShip"
+      ]
+    },
+    {
+      "id": "chess_char_3_17_a",
+      "name": "流星",
+      "tier": 3,
+      "bonds": [
+        "kazimierzShip",
+        "soloShip"
+      ]
+    },
+    {
+      "id": "chess_char_3_18_a",
+      "name": "忍冬",
+      "tier": 3,
+      "bonds": [
+        "siracusaShip",
+        "swiftShip"
+      ]
+    },
+    {
+      "id": "chess_char_3_19_a",
+      "name": "伺夜",
+      "tier": 3,
+      "bonds": [
+        "siracusaShip",
+        "miraShip"
+      ]
+    },
+    {
+      "id": "chess_char_3_20_a",
+      "name": "耶拉",
+      "tier": 3,
+      "bonds": [
+        "kjeragShip",
+        "deputShip"
+      ]
+    },
+    {
+      "id": "chess_char_3_21_a",
+      "name": "空弦",
+      "tier": 3,
+      "bonds": [
+        "lateranoShip",
+        "skillfulShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_01_a",
+      "name": "信仰搅拌机",
+      "tier": 4,
+      "bonds": [
+        "lateranoShip",
+        "steadShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_02_a",
+      "name": "莫斯提马",
+      "tier": 4,
+      "bonds": [
+        "lateranoShip",
+        "arcaneShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_04_a",
+      "name": "伊内丝",
+      "tier": 4,
+      "bonds": [
+        "visiShip",
+        "raidShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_06_a",
+      "name": "寒芒克洛丝",
+      "tier": 4,
+      "bonds": [
+        "preciShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_07_a",
+      "name": "风笛",
+      "tier": 4,
+      "bonds": [
+        "victoriaShip",
+        "visiShip",
+        "indomShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_09_a",
+      "name": "水月",
+      "tier": 4,
+      "bonds": [
+        "egirShip",
+        "soloShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_10_a",
+      "name": "阿罗玛",
+      "tier": 4,
+      "bonds": [
+        "siracusaShip",
+        "arcaneShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_11_a",
+      "name": "凯瑟琳",
+      "tier": 4,
+      "bonds": [
+        "victoriaShip",
+        "skillfulShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_12_a",
+      "name": "歌蕾蒂娅",
+      "tier": 4,
+      "bonds": [
+        "egirShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_13_a",
+      "name": "灵知",
+      "tier": 4,
+      "bonds": [
+        "kjeragShip",
+        "skillfulShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_14_a",
+      "name": "莱恩哈特",
+      "tier": 4,
+      "bonds": [
+        "swiftShip",
+        "preciShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_16_a",
+      "name": "缄默德克萨斯",
+      "tier": 4,
+      "bonds": [
+        "siracusaShip",
+        "raidShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_17_a",
+      "name": "星熊",
+      "tier": 4,
+      "bonds": [
+        "yanShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_18_a",
+      "name": "泥岩",
+      "tier": 4,
+      "bonds": [
+        "soloShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_19_a",
+      "name": "焰尾",
+      "tier": 4,
+      "bonds": [
+        "kazimierzShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_20_a",
+      "name": "远牙",
+      "tier": 4,
+      "bonds": [
+        "kazimierzShip",
+        "preciShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_21_a",
+      "name": "白面鸮",
+      "tier": 4,
+      "bonds": [
+        "deputShip",
+        "skillfulShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_22_a",
+      "name": "银灰",
+      "tier": 4,
+      "bonds": [
+        "kjeragShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_23_a",
+      "name": "百炼嘉维尔",
+      "tier": 4,
+      "bonds": [
+        "sargonShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_24_a",
+      "name": "卡涅利安",
+      "tier": 4,
+      "bonds": [
+        "sargonShip",
+        "deputShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_25_a",
+      "name": "魔王",
+      "tier": 4,
+      "bonds": [
+        "emptyShip"
+      ]
+    },
+    {
+      "id": "chess_char_4_26_a",
+      "name": "华法琳",
+      "tier": 4,
+      "bonds": [
+        "miraShip"
+      ]
+    },
+    {
+      "id": "chess_char_5_01_a",
+      "name": "圣约送葬人",
+      "tier": 5,
+      "bonds": [
+        "lateranoShip",
+        "visiShip"
+      ]
+    },
+    {
+      "id": "chess_char_5_02_a",
+      "name": "缇缇",
+      "tier": 5,
+      "bonds": [
+        "sargonShip",
+        "preciShip"
+      ]
+    },
+    {
+      "id": "chess_char_5_03_a",
+      "name": "烛煌",
+      "tier": 5,
+      "bonds": [
+        "victoriaShip",
+        "yanShip"
+      ]
+    },
+    {
+      "id": "chess_char_5_05_a",
+      "name": "乌尔比安",
+      "tier": 5,
+      "bonds": [
+        "egirShip"
+      ]
+    },
+    {
+      "id": "chess_char_5_06_a",
+      "name": "隐德来希",
+      "tier": 5,
+      "bonds": [
+        "indomShip",
+        "skillfulShip"
+      ]
+    },
+    {
+      "id": "chess_char_5_07_a",
+      "name": "史尔特尔",
+      "tier": 5,
+      "bonds": [
+        "raidShip",
+        "arcaneShip"
+      ]
+    },
+    {
+      "id": "chess_char_5_08_a",
+      "name": "号角",
+      "tier": 5,
+      "bonds": [
+        "victoriaShip"
+      ]
+    },
+    {
+      "id": "chess_char_5_10_a",
+      "name": "铃兰",
+      "tier": 5,
+      "bonds": [
+        "siracusaShip",
+        "emptyShip"
+      ]
+    },
+    {
+      "id": "chess_char_5_11_a",
+      "name": "塞雷娅",
+      "tier": 5,
+      "bonds": [
+        "steadShip",
+        "soloShip"
+      ]
+    },
+    {
+      "id": "chess_char_5_12_a",
+      "name": "夕",
+      "tier": 5,
+      "bonds": [
+        "yanShip",
+        "arcaneShip"
+      ]
+    },
+    {
+      "id": "chess_char_5_13_a",
+      "name": "归溟幽灵鲨",
+      "tier": 5,
+      "bonds": [
+        "egirShip",
+        "indomShip"
+      ]
+    },
+    {
+      "id": "chess_char_5_14_a",
+      "name": "凛御银灰",
+      "tier": 5,
+      "bonds": [
+        "kjeragShip",
+        "investShip",
+        "swiftShip"
+      ]
+    },
+    {
+      "id": "chess_char_5_15_a",
+      "name": "引星棘刺",
+      "tier": 5,
+      "bonds": [
+        "swiftShip",
+        "miraShip"
+      ]
+    },
+    {
+      "id": "chess_char_5_17_a",
+      "name": "山",
+      "tier": 5,
+      "bonds": [
+        "investShip"
+      ]
+    },
+    {
+      "id": "chess_char_5_19_a",
+      "name": "玛恩纳",
+      "tier": 5,
+      "bonds": [
+        "kazimierzShip"
+      ]
+    },
+    {
+      "id": "chess_char_5_20_a",
+      "name": "安洁莉娜",
+      "tier": 5,
+      "bonds": [
+        "siracusaShip",
+        "miraShip"
+      ]
+    },
+    {
+      "id": "chess_char_5_21_a",
+      "name": "寒檀",
+      "tier": 5,
+      "bonds": [
+        "visiShip"
+      ]
+    },
+    {
+      "id": "chess_char_5_22_a",
+      "name": "妮芙",
+      "tier": 5,
+      "bonds": [
+        "swiftShip"
+      ]
+    },
+    {
+      "id": "chess_char_5_23_a",
+      "name": "录武官",
+      "tier": 5,
+      "bonds": [
+        "yanShip",
+        "miraShip"
+      ]
+    },
+    {
+      "id": "chess_char_6_01_a",
+      "name": "蕾缪安",
+      "tier": 6,
+      "bonds": [
+        "lateranoShip",
+        "preciShip"
+      ]
+    },
+    {
+      "id": "chess_char_6_02_a",
+      "name": "圣聆初雪",
+      "tier": 6,
+      "bonds": [
+        "kjeragShip",
+        "arcaneShip"
+      ]
+    },
+    {
+      "id": "chess_char_6_03_a",
+      "name": "余",
+      "tier": 6,
+      "bonds": [
+        "yanShip",
+        "steadShip"
+      ]
+    },
+    {
+      "id": "chess_char_6_04_a",
+      "name": "浊心斯卡蒂",
+      "tier": 6,
+      "bonds": [
+        "egirShip"
+      ]
+    },
+    {
+      "id": "chess_char_6_05_a",
+      "name": "异客",
+      "tier": 6,
+      "bonds": [
+        "sargonShip",
+        "swiftShip",
+        "preciShip"
+      ]
+    },
+    {
+      "id": "chess_char_6_06_a",
+      "name": "佩佩",
+      "tier": 6,
+      "bonds": [
+        "sargonShip",
+        "indomShip"
+      ]
+    },
+    {
+      "id": "chess_char_6_07_a",
+      "name": "维娜·维多利亚",
+      "tier": 6,
+      "bonds": [
+        "victoriaShip",
+        "miraShip"
+      ]
+    },
+    {
+      "id": "chess_char_6_08_a",
+      "name": "焰影苇草",
+      "tier": 6,
+      "bonds": [
+        "victoriaShip",
+        "preciShip"
+      ]
+    },
+    {
+      "id": "chess_char_6_09_a",
+      "name": "塑心",
+      "tier": 6,
+      "bonds": [
+        "lateranoShip"
+      ]
+    },
+    {
+      "id": "chess_char_6_11_a",
+      "name": "缪尔赛思",
+      "tier": 6,
+      "bonds": [
+        "maniShip"
+      ]
+    },
+    {
+      "id": "chess_char_6_12_a",
+      "name": "迷迭香",
+      "tier": 6,
+      "bonds": [
+        "preciShip",
+        "visiShip",
+        "emptyShip"
+      ]
+    },
+    {
+      "id": "chess_char_6_13_a",
+      "name": "新约能天使",
+      "tier": 6,
+      "bonds": [
+        "lateranoShip"
+      ]
+    },
+    {
+      "id": "chess_char_6_14_a",
+      "name": "流明",
+      "tier": 6,
+      "bonds": [
+        "deputShip"
+      ]
+    },
+    {
+      "id": "chess_char_6_15_a",
+      "name": "仇白",
+      "tier": 6,
+      "bonds": [
+        "yanShip",
+        "raidShip"
+      ]
+    },
+    {
+      "id": "chess_char_6_16_a",
+      "name": "溯光星源",
+      "tier": 6,
+      "bonds": [
+        "arcaneShip",
+        "skillfulShip"
+      ]
+    },
+    {
+      "id": "chess_char_6_17_a",
+      "name": "耀骑士临光",
+      "tier": 6,
+      "bonds": [
+        "kazimierzShip",
+        "raidShip"
+      ]
+    },
+    {
+      "id": "chess_char_6_18_a",
+      "name": "荒芜拉普兰德",
+      "tier": 6,
+      "bonds": [
+        "siracusaShip"
+      ]
+    },
+    {
+      "id": "chess_char_6_19_a",
+      "name": "锏",
+      "tier": 6,
+      "bonds": [
+        "kjeragShip",
+        "kazimierzShip",
+        "swiftShip"
+      ]
+    },
+    {
+      "id": "chess_char_6_20_a",
+      "name": "纯烬艾雅法拉",
+      "tier": 6,
+      "bonds": [
+        "deputShip"
+      ]
+    }
+  ],
+  "bonds": [
+    {
+      "id": "yanShip",
+      "name": "炎"
+    },
+    {
+      "id": "sargonShip",
+      "name": "萨尔贡"
+    },
+    {
+      "id": "victoriaShip",
+      "name": "维多利亚"
+    },
+    {
+      "id": "kjeragShip",
+      "name": "谢拉格"
+    },
+    {
+      "id": "lateranoShip",
+      "name": "拉特兰"
+    },
+    {
+      "id": "egirShip",
+      "name": "阿戈尔"
+    },
+    {
+      "id": "siracusaShip",
+      "name": "叙拉古"
+    },
+    {
+      "id": "kazimierzShip",
+      "name": "卡西米尔"
+    },
+    {
+      "id": "preciShip",
+      "name": "精准"
+    },
+    {
+      "id": "swiftShip",
+      "name": "迅捷"
+    },
+    {
+      "id": "skillfulShip",
+      "name": "灵巧"
+    },
+    {
+      "id": "arcaneShip",
+      "name": "奥术"
+    },
+    {
+      "id": "steadShip",
+      "name": "坚守"
+    },
+    {
+      "id": "deputShip",
+      "name": "助力"
+    },
+    {
+      "id": "visiShip",
+      "name": "远见"
+    },
+    {
+      "id": "miraShip",
+      "name": "奇迹"
+    },
+    {
+      "id": "investShip",
+      "name": "投资人"
+    },
+    {
+      "id": "raidShip",
+      "name": "突袭"
+    },
+    {
+      "id": "indomShip",
+      "name": "不屈"
+    },
+    {
+      "id": "maniShip",
+      "name": "调和"
+    },
+    {
+      "id": "emptyShip",
+      "name": "协防干员"
+    },
+    {
+      "id": "soloShip",
+      "name": "独行"
+    },
+    {
+      "id": "suntShip",
+      "name": "绝技"
+    }
+  ]
+}

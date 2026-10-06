@@ -1,0 +1,65 @@
+{
+  "format": "stronghold.shop-strategy",
+  "version": 1,
+  "name": "炎盟约：铃兰·惊蛰·投资人层数引擎",
+  "bondRules": [
+    {
+      "bondId": "yanShip",
+      "tier": 1,
+      "reason": "炎层数与6/9人档的核心目标"
+    },
+    {
+      "bondId": "investShip",
+      "tier": 2,
+      "reason": "激活后放大所有获得时特质"
+    }
+  ],
+  "operatorRules": [
+    {
+      "chessId": "chess_char_1_03_a",
+      "tier": 1,
+      "reason": "铃兰每回合重触发的核心加层来源"
+    },
+    {
+      "chessId": "chess_char_2_04_a",
+      "tier": 1,
+      "reason": "炎激活后按本回合获得数加层"
+    },
+    {
+      "chessId": "chess_char_3_04_a",
+      "tier": 1,
+      "reason": "同时推进炎和投资人，并提供下回合资金"
+    },
+    {
+      "chessId": "chess_char_5_12_a",
+      "tier": 1,
+      "reason": "炎激活后按本回合获得数加炎与奥术层数"
+    },
+    {
+      "chessId": "chess_char_4_17_a",
+      "tier": 2,
+      "reason": "获得时炎层数+8，可被投资人放大"
+    },
+    {
+      "chessId": "chess_char_5_03_a",
+      "tier": 2,
+      "reason": "获得时炎层数+5，可被投资人放大"
+    },
+    {
+      "chessId": "chess_char_5_23_a",
+      "tier": 2,
+      "reason": "获得时炎层数+6，可被投资人放大"
+    },
+    {
+      "chessId": "chess_char_6_03_a",
+      "tier": 3,
+      "reason": "培养炎人数后有机会招募炎干员"
+    },
+    {
+      "chessId": "chess_char_6_15_a",
+      "tier": 3,
+      "reason": "高层数后的战斗收益，不是加层来源"
+    }
+  ],
+  "mergeTier": 1
+}

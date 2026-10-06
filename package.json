@@ -1,0 +1,24 @@
+{
+  "name": "stronghold-shop-advisor",
+  "version": "1.0.12",
+  "description": "Independent Manifest V3 strategy advisor for Stronghold Protocol.",
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://github.com/sganggs/Stronghold-Shop-Advisor#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sganggs/Stronghold-Shop-Advisor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sganggs/Stronghold-Shop-Advisor/issues"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "check": "node tools/check-extension.mjs",
+    "build": "npm run check && node tools/build-package.mjs",
+    "build:catalog": "node tools/build-catalog.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

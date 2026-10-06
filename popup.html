@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>卫戍协议 · 构筑顾问</title>
+  <link rel="icon" href="data:,">
+  <script src="popup-layout.js"></script>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <header class="header"><div class="brand"><span class="mark">SP</span><div><strong>卫戍协议</strong><span>构筑顾问</span></div></div><label class="toggle"><span>推荐</span><input id="enabled" type="checkbox" role="switch"><i></i></label></header>
+  <section class="strategy">
+    <label for="name">当前策略</label><input id="name" maxlength="80" aria-label="策略名称">
+    <div class="toolbar"><button id="import">导入配置</button><button id="export">导出配置</button><button id="preset">炎 · 投资人</button><span id="saved" role="status">已保存</span></div>
+    <input id="file" type="file" accept=".json,application/json" hidden>
+  </section>
+  <nav class="tabs" aria-label="规则分类"><button data-tab="bonds" aria-pressed="true">羁绊 <span id="bond-count">0</span></button><button data-tab="operators" aria-pressed="false">干员 <span id="operator-count">0</span></button></nav>
+  <div class="filters"><input id="search" type="search" placeholder="搜索羁绊" aria-label="搜索规则"><label><input id="configured" type="checkbox">仅已设置</label></div>
+  <section id="ban-analysis" class="ban-analysis" aria-label="禁用干员分析"></section>
+  <main id="rules" aria-label="规则列表"></main>
+  <footer>
+    <div class="merge"><label for="merge">可合成干员</label><select id="merge"><option value="1">优先</option><option value="2">推荐</option><option value="3">可考虑</option><option value="0">不提示</option></select><span class="legend"><i class="t1"></i>优先 <i class="t2"></i>推荐 <i class="t3"></i>可考虑</span></div>
+    <p id="status" role="status">尚未连接当前页面</p>
+    <button id="apply" class="primary">应用到当前游戏</button>
+  </footer>
+  <dialog id="preview"><h2>替换顾问配置</h2><strong id="preview-name"></strong><p id="preview-count"></p><div class="dialog-actions"><button id="cancel">取消</button><button id="confirm" class="primary">确认导入</button></div></dialog>
+  <script type="module" src="popup.js"></script>
+</body>
+</html>
