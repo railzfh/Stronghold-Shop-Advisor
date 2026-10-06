@@ -74,4 +74,4 @@ node tools/build-catalog.mjs --input ../Stronghold-Protocol/extension/catalog.js
 
 隐私说明见 [PRIVACY.md](PRIVACY.md)，安全问题请阅读 [SECURITY.md](SECURITY.md)。
 
-本项目代码采用 GPL-3.0-or-later。游戏名称、干员名称、游戏目录等派生数据属于其原权利人，具体边界见 [NOTICE.md](NOTICE.md) 和 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)。本项目是非官方工具，与相关权利人没有关联或授权关系。
+本项目代码采用 GPL-3.0-or-later。来源和文件分类见 [docs/SOURCE-PROVENANCE.md](docs/SOURCE-PROVENANCE.md)。游戏名称、干员名称、游戏目录等派生数据属于其原权利人，具体边界见 [NOTICE.md](NOTICE.md) 和 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)。本项目是非官方工具，与相关权利人没有关联或授权关系。

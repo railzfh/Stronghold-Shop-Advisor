@@ -1,5 +1,11 @@
 # Version history
 
+## 1.0.13 - 2026-10-06
+
+- Documented the source provenance and licensing boundary of the standalone extraction.
+- Recorded that the standalone project was extracted from the development repository's advisor extension at `v1.0.11` (`e78ac25`).
+- Clarified that the catalog is game-derived data and is not automatically covered by the source-code license.
+
 ## 1.0.12 - 2026-10-06
 
 - Extracted the browser extension into the standalone `Stronghold-Shop-Advisor` project.
