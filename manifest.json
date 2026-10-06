@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "卫戍协议 · 构筑顾问",
   "description": "独立策略编辑器与商店三档推荐，支持逐干员规则、回合提醒和禁用分析。",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "permissions": ["storage", "tabs", "activeTab", "scripting"],
   "host_permissions": ["http://*/*", "https://*/*"],
   "action": { "default_title": "构筑顾问", "default_popup": "popup.html" }

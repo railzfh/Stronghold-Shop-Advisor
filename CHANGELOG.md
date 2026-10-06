@@ -1,5 +1,9 @@
 # Version history
 
+## 1.0.14 - 2026-10-06
+
+- Updated the repository metadata and CODEOWNERS for the `railzfh` GitHub account before the first public push.
+
 ## 1.0.13 - 2026-10-06
 
 - Documented the source provenance and licensing boundary of the standalone extraction.
